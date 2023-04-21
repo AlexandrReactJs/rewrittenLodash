@@ -1,0 +1,21 @@
+{
+  "name": "rewrittenlodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rewritten-lodash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node rewritten-lodash.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrReactJs/rewrittenLodash.git"
+  },
+  "author": "alexReactJs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrReactJs/rewrittenLodash/issues"
+  },
+  "homepage": "https://github.com/AlexandrReactJs/rewrittenLodash#readme"
+}
